@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.ephesis-regular {
+  font-family: "Ephesis", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
